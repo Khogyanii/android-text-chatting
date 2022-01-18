@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309957368569",
+    "project_id": "chap-app-d5369",
+    "storage_bucket": "chap-app-d5369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309957368569:android:76b1c2543ba7e8a57ca028",
+        "android_client_info": {
+          "package_name": "com.ksc.avcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309957368569-gfv0rfv92n45nhare2k1rkp5hmol131m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWRdvExjBlvqNC3-sztVUFmR8roSGXxrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309957368569-gfv0rfv92n45nhare2k1rkp5hmol131m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
